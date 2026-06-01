@@ -1,15 +1,7 @@
 {
   "name": "zaple-backend",
   "version": "1.0.0",
-  "description": "ZAPLE API backend — compression and expansion endpoints",
-  "type": "module",
-  "scripts": {
-    "dev": "vercel dev"
-  },
-  "dependencies": {},
-  "devDependencies": {
-    "vercel": "^33.0.0"
-  },
+  "description": "ZAPLE API backend",
   "engines": {
     "node": ">=18"
   }
